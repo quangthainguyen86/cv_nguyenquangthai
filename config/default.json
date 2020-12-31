@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:123@cluster0.dodc4.mongodb.net/cvonline?retryWrites=true&w=majority",
+  "jwtSecret": "token_secret"
+}
